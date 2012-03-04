@@ -477,7 +477,14 @@ a,iframe,
 .slide q strong {
     white-space: nowrap;
 }
-
+.slide h1 {
+	font-size:100px;
+	font-weight:bold;
+	margin-top:235px;
+	width:100%;
+	text-align:center;
+	line-height:90px;
+}
 
 /* IMPRESS NOT SUPPORTED STYLES */
 
